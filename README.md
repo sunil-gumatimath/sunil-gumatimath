@@ -76,9 +76,8 @@ BLDEA’s V. P. Dr. P. G. Halakatti College of Engineering and Technology, Vijay
 
 ### 📫 Let's Connect!
 
-📧 **sunilgumatimath.vs@gmail.com**  
-📱 **+91 8660841200**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunil-gumatimath-2a6577240/) | [GitHub](https://github.com/sunil-gumatimath)
+📧 **sunilgumatimath.vs@gmail.com** 
+🔗 [LinkedIn](https://www.linkedin.com/in/sunil-gumatimath-2a6577240/)
 
 ---
 
