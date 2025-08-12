@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable ba
 ## 🔥 Featured Projects
 
 ### 🎬 Movie Discovery Web Application
-**Full Stack Application** | [Live Demo](https://ted-tmdb-movie-07.netlify.app/) | [Repository](#)
+**Full Stack Application** | [Live Demo](https://ted-tmdb-movie-07.netlify.app/) | [Repository](https://github.com/sunil-gumatimath/TMDB-React-Cinema)
 
 A responsive movie discovery platform built with modern web technologies
 - **Tech Stack:** React 19, TMDB API, Appwrite, Tailwind CSS, Vite
