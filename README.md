@@ -90,11 +90,9 @@ A comprehensive backend system for ticket booking with full CRUD operations
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunil-gumatimath&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats-nine.vercel.app?user=sunil-gumatimath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 
 
