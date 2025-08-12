@@ -60,7 +60,7 @@ A responsive movie discovery platform built with modern web technologies
   - Robust error handling and loading states
 
 ### 🎫 Ticket Booking System
-**Backend Development** | [Repository](#)
+**Backend Development** | [Repository](https://github.com/sunil-gumatimath/movie-ticket-booking-system)
 
 A comprehensive backend system for ticket booking with full CRUD operations
 - **Tech Stack:** Java, Spring Boot, Hibernate, MySQL, Postman
