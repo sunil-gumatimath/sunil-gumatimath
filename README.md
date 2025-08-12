@@ -93,7 +93,7 @@ A comprehensive backend system for ticket booking with full CRUD operations
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sunil-gumatimath&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/api?user=sunil-gumatimath&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 
