@@ -93,8 +93,9 @@ A comprehensive backend system for ticket booking with full CRUD operations
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sunil-gumatimath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-nine.vercel.app?user=sunil-gumatimath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 
 
