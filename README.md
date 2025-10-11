@@ -10,6 +10,12 @@
 I'm a passionate Full Stack Developer specializing in building scalable backend systems with Spring Boot and creating interactive user interfaces with React. Committed to writing clean, efficient, and maintainable code.
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunil-gumatimath&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sunil-gumatimath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gumatimath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
