@@ -15,7 +15,7 @@ I'm a passionate Full Stack Developer specializing in building scalable backend 
 
 * **Backend:** `Java`, `Python`, `Spring Boot`, `Hibernate`, `REST APIs`, and `Spring Security`.
 * **Frontend:** `React` paired with `Tailwind CSS` and `Bootstrap` for dynamic, responsive interfaces.
-* **Database:** Proficient in relational database systems, including `MySQL`.
+* **Database:** Proficient in relational database systems, including `MySQL`, `Supabase`, and `Appwrite`.
 * **Tools & Cloud:** Experienced with `Git` & `GitHub` for version control, `Postman` for API testing, `Docker`, and `VS Code` & `IntelliJ IDEA` for development.
 
 ---
@@ -23,6 +23,7 @@ I'm a passionate Full Stack Developer specializing in building scalable backend 
 ## 📫 Contact
 
 [LinkedIn](https://linkedin.com/in/sunil-gumatimath) • [Email](mailto:sunilgumatimath.vs@gmail.com) • [GitHub](https://github.com/sunil-gumatimath)
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=sunil-gumatimath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
