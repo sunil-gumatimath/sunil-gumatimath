@@ -3,18 +3,21 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 </div>
-
-Java Developer | Full-Stack Enthusiast 
-📍 Based in India
+🚀 **Java Developer | Full-Stack Enthusiast**  
+📍 **Based in India**
 
 I'm a passionate Full Stack Developer specializing in building scalable backend systems with Spring Boot and creating interactive user interfaces with React. Committed to writing clean, efficient, and maintainable code.
 
+---
+
 ## 🛠️ Tech Stack
 
-* **Backend:** `Java`, `Python`, `Spring Boot`, `Hibernate`, `REST APIs`, `Spring Security`
-* **Frontend:** `React`, `JavaScript`, `HTML`, `CSS`, `Tailwind CSS`, `Bootstrap`
-* **Database:** `MySQL`
-* **Tools:** `Git`, `GitHub`, `Postman`, `VS Code`, `IntelliJ IDEA`, `Docker`
+* **Backend:** `Java`, `Python`, `Spring Boot`, `Hibernate`, `REST APIs`, and `Spring Security`.
+* **Frontend:** `React` paired with `Tailwind CSS` and `Bootstrap` for dynamic, responsive interfaces.
+* **Database:** Proficient in relational database systems, including `MySQL`.
+* **Tools & Cloud:** Experienced with `Git` & `GitHub` for version control, `Postman` for API testing, `Docker`, and `VS Code` & `IntelliJ IDEA` for development.
+
+---
 
 ## 📫 Contact
 
