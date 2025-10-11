@@ -10,6 +10,12 @@
 I'm a passionate Full Stack Developer specializing in building scalable backend systems with Spring Boot and creating interactive user interfaces with React. Committed to writing clean, efficient, and maintainable code.
 
 ---
+## 💻 Skills
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 🛠️ Tech Stack
 
