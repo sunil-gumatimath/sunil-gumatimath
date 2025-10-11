@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 </div>
 
-Full Stack Developer | Java & React Specialist  
+Java Developer | Full-Stack Enthusiast 
 📍 Based in India
 
 I'm a passionate Full Stack Developer specializing in building scalable backend systems with Spring Boot and creating interactive user interfaces with React. Committed to writing clean, efficient, and maintainable code.
