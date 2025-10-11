@@ -10,6 +10,10 @@
 I'm a passionate Full Stack Developer specializing in building scalable backend systems with Spring Boot and creating interactive user interfaces with React. Committed to writing clean, efficient, and maintainable code.
 
 ---
+## 🚀 Featured Projects
+
+**[Movie Discovery App](https://ted-tmdb-movie-07.netlify.app/)** - React movie platform with TMDB API integration  
+**[Ticket Booking System](https://github.com/sunil-gumatimath/movie-ticket-booking-system)** - Spring Boot REST API backend
 ## 💻 Skills
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
