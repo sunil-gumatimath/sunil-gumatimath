@@ -10,6 +10,9 @@
 I'm a passionate Full Stack Developer specializing in building scalable backend systems with Spring Boot and creating interactive user interfaces with React. Committed to writing clean, efficient, and maintainable code.
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gumatimath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 ## 🚀 Featured Projects
 
 **[Movie Discovery App](https://ted-tmdb-movie-07.netlify.app/)** - React movie platform with TMDB API integration  
