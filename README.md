@@ -1,7 +1,7 @@
 # Hi there, I'm Sunil!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Databases+%26+Cloud+Ready;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 **Java Developer | Full-Stack Enthusiast**  
@@ -52,7 +52,7 @@ I'm a passionate Full Stack Developer specializing in building scalable backend 
 
 ## GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunil-gumatimath&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gumatimath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
