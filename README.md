@@ -57,6 +57,13 @@ I'm a passionate Full Stack Developer specializing in building scalable backend 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-gumatimath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-gumatimath&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunil-gumatimath&theme=tokyonight" alt="Profile Summary" />
+</div>
 ---
 
 ## Contact
