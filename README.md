@@ -59,7 +59,6 @@ A RESTful Spring Boot application with full CRUD operations and secure user mana
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil-gumatimath&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
 </div>
----
 
 ## Contact
 
