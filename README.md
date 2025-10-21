@@ -45,8 +45,13 @@ I'm a passionate Full Stack Developer specializing in building scalable backend 
 
 ## Featured Projects
 
-**[Movie Discovery App](https://ted-tmdb-movie-07.netlify.app/)** - React movie platform with TMDB API integration and Appwrite backend  
-**[Ticket Booking System](https://github.com/sunil-gumatimath/movie-ticket-booking-system)** - Spring Boot REST API with full CRUD operations
+### [Movie Discovery App](https://ted-tmdb-movie-07.netlify.app/)
+A React-based movie platform integrated with the TMDB API and Appwrite backend for dynamic data handling.  
+**Tech Used:** React, Tailwind CSS, TMDB API, Appwrite
+
+### [Ticket Booking System](https://github.com/sunil-gumatimath/movie-ticket-booking-system)
+A RESTful Spring Boot application with full CRUD operations and secure user management.  
+**Tech Used:** Spring Boot, Hibernate, MySQL, REST APIs
 
 ---
 
