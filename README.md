@@ -9,6 +9,9 @@
 
 I'm a passionate Full Stack Developer specializing in building scalable backend systems with Spring Boot and creating interactive user interfaces with React. Committed to writing clean, efficient, and maintainable code.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sunil-gumatimath-2a6577240/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sunilgumatimath.vs@gmail.com)
+
 ---
 
 ## Tech Stack
@@ -41,10 +44,3 @@ I'm a passionate Full Stack Developer specializing in building scalable backend 
 - Advanced React Patterns
 
 
-## Contact
-
-[LinkedIn](https://linkedin.com/in/sunil-gumatimath) • [Email](mailto:sunilgumatimath.vs@gmail.com) • [GitHub](https://github.com/sunil-gumatimath)
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=sunil-gumatimath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
