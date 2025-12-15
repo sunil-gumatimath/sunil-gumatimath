@@ -27,5 +27,6 @@ I'm a passionate Full Stack Developer specializing in building scalable backend 
 
 - Microservices Architecture
 - Advanced React Patterns
+- TypeScript
 
 
