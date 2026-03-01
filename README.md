@@ -40,15 +40,14 @@
 
 > Building robust backends and polished frontends—one commit at a time.
 
-
 ## Current Projects
 
-- 💰 **[ai-personal-finance-tracker](https://github.com/sunil-gumatimath/ai-personal-finance-tracker)** - An elegant solution for managing personal finances. Track, budget, and save with ease.
-- 🚀 **[synergy-dashboard](https://github.com/sunil-gumatimath/synergy-dashboard)** - A simple employee management system repository for organizing, tracking, and managing employee records using Vibecode. 
-- 🎯 **[exposed-api-keys-finder](https://github.com/sunil-gumatimath/exposed-api-keys-finder)** - A Python tool to audit GitHub repositories for exposed API keys from OpenAI, Anthropic, and other providers. Features advanced filtering, progress tracking, and multiple output formats.
-- 🎬 **[TMDB-React-Cinema](https://github.com/sunil-gumatimath/TMDB-React-Cinema)** - TMDB-React-Cinema: A React web app using the TMDB API to browse, search, and discover movies. Features dynamic search, detailed movie info, and a responsive design for a seamless cinematic experience.
-- 🎟️ **[movie-ticket-booking-system](https://github.com/sunil-gumatimath/movie-ticket-booking-system)** - A robust Spring Boot REST API for movie ticket booking, supporting user/theater management, seat selection, feedback, JWT auth, and clean exception handling. Built with Java 17, Spring Security, and more.
-- 🧩 **[tab-organizer-chrome-extension](https://github.com/sunil-gumatimath/tab-organizer-chrome-extension)** - Chrome extension for organizing browser tabs efficiently.
-- 📝 **[wavelength](https://github.com/sunil-gumatimath/wavelength)** - Wavelength is a modern personal blog platform for publishing and managing posts with a clean, responsive reading experience.
-- 🎯 **[quiz-app](https://github.com/sunil-gumatimath/quiz-app)** - A modern React-based quiz app with interactive features, dynamic questions, score tracking, and customizable quizzes. Ideal for learning and testing knowledge.
-- ⚛️ **[react-master](https://github.com/sunil-gumatimath/react-master)** - Build mastery in React with this comprehensive collection of interactive components! From star ratings and color generators to collapsible accordions - master modern React 19 patterns, hooks, and concepts.
+- 💰 **[ai-personal-finance-tracker](https://github.com/sunil-gumatimath/ai-personal-finance-tracker)** - AI-based finance tracker for expenses, budgets, and savings insights.
+- 👥 **[synergy-dashboard](https://github.com/sunil-gumatimath/synergy-dashboard)** - Employee management dashboard for records, tracking, and operations.
+- 🔍 **[exposed-api-keys-finder](https://github.com/sunil-gumatimath/exposed-api-keys-finder)** - Python tool to find exposed API keys in GitHub repositories.
+- 🎬 **[TMDB-React-Cinema](https://github.com/sunil-gumatimath/TMDB-React-Cinema)** - TMDB-powered React app to browse, search, and view movie details.
+- 🎟️ **[movie-ticket-booking-system](https://github.com/sunil-gumatimath/movie-ticket-booking-system)** - Spring Boot movie ticket booking backend with auth and seat management.
+- 🗂️ **[tab-organizer-chrome-extension](https://github.com/sunil-gumatimath/tab-organizer-chrome-extension)** - Chrome extension to organize, group, and clean browser tabs.
+- ✍️ **[wavelength](https://github.com/sunil-gumatimath/wavelength)** - Personal blogging platform for creating and managing posts.
+- ❓ **[quiz-app](https://github.com/sunil-gumatimath/quiz-app)** - React quiz application with dynamic questions and score tracking.
+- ⚛️ **[react-master](https://github.com/sunil-gumatimath/react-master)** - React practice project set focused on components, hooks, and patterns.
