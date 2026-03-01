@@ -40,7 +40,6 @@
 
 > Building robust backends and polished frontends—one commit at a time.
 
-🍭 **[Your Project/Company Name]** ([link](https://example.com)) – [Brief description of your main project or work].
 
 ## Current Projects
 
