@@ -55,11 +55,12 @@
     </td>
   </tr>
 </table>
-> Building robust backends and polished frontends—one commit at a time.
+
 
 ## Current Projects
 
 - 💰 **[ai-personal-finance-tracker](https://github.com/sunil-gumatimath/ai-personal-finance-tracker)** - AI-based finance tracker for expenses, budgets, and savings insights.
+- 🎫 **[event-ticket-platform](https://github.com/sunil-gumatimath/event-ticket-platform)** - Event management and ticketing platform for booking and managing events.
 - 👥 **[synergy-dashboard](https://github.com/sunil-gumatimath/synergy-dashboard)** - Employee management dashboard for records, tracking, and operations.
 - 🔍 **[exposed-api-keys-finder](https://github.com/sunil-gumatimath/exposed-api-keys-finder)** - Python tool to find exposed API keys in GitHub repositories.
 - 🎬 **[TMDB-React-Cinema](https://github.com/sunil-gumatimath/TMDB-React-Cinema)** - TMDB-powered React app to browse, search, and view movie details.
@@ -68,3 +69,4 @@
 - ✍️ **[wavelength](https://github.com/sunil-gumatimath/wavelength)** - Personal blogging platform for creating and managing posts.
 - ❓ **[quiz-app](https://github.com/sunil-gumatimath/quiz-app)** - React quiz application with dynamic questions and score tracking.
 - ⚛️ **[react-master](https://github.com/sunil-gumatimath/react-master)** - React practice project set focused on components, hooks, and patterns.
+
