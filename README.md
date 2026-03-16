@@ -14,5 +14,5 @@
 - **[tab-organizer-chrome-extension](https://github.com/sunil-gumatimath/tab-organizer-chrome-extension)** - Chrome extension to organize, group, and clean browser tabs.
 - **[wavelength](https://github.com/sunil-gumatimath/wavelength)** - Personal blogging platform for creating and managing posts.
 - **[quiz-app](https://github.com/sunil-gumatimath/quiz-app)** - React quiz application with dynamic questions and score tracking.
-- **[react-master](https://github.com/sunil-gumatimath/react-master)** - React practice project set focused on components, hooks, and patterns.
+- **[tinylnk](https://github.com/sunil-gumatimath/tinylnk)** - URL shortening service for creating and managing short links.
 
