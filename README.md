@@ -7,7 +7,7 @@
 
 - **[ai-personal-finance-tracker](https://github.com/sunil-gumatimath/ai-personal-finance-tracker)** - AI-based finance tracker for expenses, budgets, and savings insights.
 - **[event-ticket-platform](https://github.com/sunil-gumatimath/event-ticket-platform)** - Event management and ticketing platform for booking and managing events.
-- **[synergy-dashboard](https://github.com/sunil-gumatimath/synergy-dashboard)** - Employee management dashboard for records, tracking, and operations.
+- **[synergy-dashboard](https://github.com/sunil-gumatimath/synergy-crm)** - Employee management dashboard for records, tracking, and operations.
 - **[exposed-api-key-auditor](https://github.com/sunil-gumatimath/exposed-api-keys-finder)** - Python tool to find exposed API keys in GitHub repositories.
 - **[TMDB-React-Cinema](https://github.com/sunil-gumatimath/TMDB-React-Cinema)** - TMDB-powered React app to browse, search, and view movie details.
 - **[movie-ticket-booking-system](https://github.com/sunil-gumatimath/movie-ticket-booking-system)** - Spring Boot movie ticket booking backend with auth and seat management.
