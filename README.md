@@ -10,7 +10,6 @@
 - **[tinylnk](https://github.com/sunil-gumatimath/tinylnk)** - URL shortening service for creating and managing short links.
 - **[newsdrop](https://github.com/sunil-gumatimath/newsdrop)** - A Telegram bot that delivers daily news with country and topic filtering, using the NewsAPI.
 - **[credsclaw](https://github.com/sunil-gumatimath/credsclaw)** - Python tool to find exposed API keys in GitHub repositories.
-- **[movie-ticket-booking-system](https://github.com/sunil-gumatimath/movie-ticket-booking-system)** - Spring Boot REST API for movie ticket booking with theater management, seat selection, and JWT auth.
 - **[tab-organizer-chrome-extension](https://github.com/sunil-gumatimath/tab-organizer-chrome-extension)** - Chrome extension to organize, group, and clean browser tabs.
 - **[claude-code-proxy](https://github.com/sunil-gumatimath/claude-code-proxy)** - Local proxy for using Kilo Code Models with Claude Code.
-
+- **[movie-ticket-booking-system](https://github.com/sunil-gumatimath/movie-ticket-booking-system)** - Spring Boot REST API for movie ticket booking with theater management, seat selection, and JWT auth.
